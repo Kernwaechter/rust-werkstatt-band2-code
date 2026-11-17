@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+members = [
+    "teil-01-erstes-fenster",
+    "teil-02-wuerfelduell-desktop",
+    "teil-03-werkstatt-schreiber-basis",
+    "teil-04-werkstatt-schreiber-editor",
+    "teil-05-werkstatt-schreiber-fertig",
+    "teil-06-ops-waechter-async",
+    "teil-07-ops-waechter-ticker",
+    "teil-08-ops-waechter-diagramm",
+    "teil-09-datenbank-sqlite",
+    "teil-10-wissens-tresor-suche",
+    "teil-11-wissens-tresor-meisterprojekt",
+]

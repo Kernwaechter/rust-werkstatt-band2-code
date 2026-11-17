@@ -1,0 +1,10 @@
+[package]
+name = "speicher-landkarte-app"
+version = "0.1.0"
+edition = "2021"
+description = "Grafischer Speicher-Analysator (Treemap) mit Iced Canvas"
+
+[dependencies]
+speicher-landkarte-core = { path = "../speicher-landkarte-core" }
+iced = { version = "0.13", features = ["tokio", "canvas"] }
+tokio = { version = "1", features = ["full"] }

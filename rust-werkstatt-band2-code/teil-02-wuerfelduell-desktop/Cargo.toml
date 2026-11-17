@@ -1,0 +1,8 @@
+[package]
+name = "teil-02-wuerfelduell-desktop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = "0.13"
+fastrand = "2"

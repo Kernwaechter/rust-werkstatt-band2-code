@@ -1,0 +1,7 @@
+[package]
+name = "speicher-landkarte-core"
+version = "0.1.0"
+edition = "2021"
+description = "Reine Scan-, Treemap-Layout- und Bereinigungslogik für die Speicher-Landkarte"
+
+[dependencies]
